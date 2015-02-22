@@ -1,0 +1,11 @@
+Programming Language:
+- Python 2.7.x
+
+Library Dependencies: 
+- Snap python API - see http://snap.stanford.edu/snappy/ for instructions
+
+Usage: 
+python p1_jjbeaver <path to input dir> <output filename>
+
+e.g.
+python p1_jjbeaver.py facebook results_jjbeaver
