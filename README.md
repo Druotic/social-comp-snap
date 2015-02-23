@@ -8,6 +8,8 @@ Project for Social Computing Course at NCSU
 Script accepts a path to a SNAP Facebook graph directory (see facebook dir) and output
 file to output results. 
 
+See README for pre-requisites/dependencies
+
 ### Usage:
  
 - **Run:**
