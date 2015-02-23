@@ -58,3 +58,8 @@ highestid# <degree>
 
 
 See results_jjbeaver for sample output.
+
+
+##### Reference: 
+
+- [Dataset, Info, and related Paper](http://snap.stanford.edu/data/egonets-Facebook.html)
