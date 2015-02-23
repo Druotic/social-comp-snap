@@ -23,35 +23,35 @@ Script has two primary functions:
 
 1) Output social circle info, output format:
 
-`ego1:
-c#: <size> <#common attributes>
-.
-.
-.
-c#: <size> <#common attributes>`
+ego1:  
+c#: <size> <#common attributes>  
+.  
+.  
+.  
+c#: <size> <#common attributes>   
 
-`ego2:
-c#: <size> <#common attributes>
-.
-.
-.
-c#: <size> <#common attributes>`
+ego2:  
+c#: <size> <#common attributes>  
+.  
+.  
+.  
+c#: <size> <#common attributes>  
 
 The above is printed for scenario (a) with ego part of circle and (b) with ego not part of circle.
 
 
 2) Output degree of nodes, output format:
 
-`ego1:
-lowestid#: <degree>
-.
-.
-.
-highestid#: <degree>`
+ego1:  
+lowestid#: <degree>  
+.  
+.  
+.  
+highestid#: <degree>   
 
-`ego2:
-lowestid#: <degree>
-.
-.
-.
-highestid# <degree>`
+ego2:  
+lowestid#: <degree>  
+.  
+.  
+.  
+highestid# <degree>  
